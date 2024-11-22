@@ -1,3 +1,5 @@
+![k8-depoloyment-Topology_v2](https://github.com/user-attachments/assets/0a83e824-733e-4111-b3a6-9e30c173cda5) 
+
 # .NET - Demo Web Application
 
 This is a simple .NET web app using the new minimal hosting model, and Razor pages. It was created from the `dotnet new webapp` template and modified adding custom APIs, Bootstrap v5, Microsoft Identity and other packages/features.
